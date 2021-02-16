@@ -6,3 +6,4 @@ Welcome to menu
 2)Paste
 
 End
+Thanks
